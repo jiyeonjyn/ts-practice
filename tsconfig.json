@@ -6,15 +6,14 @@
     /* Language and Environment */
     "target": "ES6" /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */,
     "lib": [
-      "ES6",
-      "DOM"
+      "ES6"
     ] /* Specify a set of bundled library declaration files that describe the target runtime environment. */,
 
     /* Modules */
     "module": "commonjs" /* Specify what module code is generated. */,
 
     /* JavaScript Support */
-    "allowJs": true /* Allow JavaScript files to be a part of your program. Use the 'checkJS' option to get errors from these files. */,
+    // "allowJs": true /* Allow JavaScript files to be a part of your program. Use the 'checkJS' option to get errors from these files. */,
 
     /* Emit */
     "outDir": "dist" /* Specify an output folder for all emitted files. */,

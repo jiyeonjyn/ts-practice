@@ -4,7 +4,7 @@
 
   ```bash
   $ npm init -y
-  $ npm i typescript -D (devDependency)
+  $ npm i typescript --save-dev (devDependency)
   $ npx tsc —init (tsconfig.json 파일 생성)
   $ npx tsc (컴파일 .ts → .js)
   $ node dist/index.js
@@ -37,6 +37,8 @@
 - `tsconfig.json` : [https://www.typescriptlang.org/ko/tsconfig](https://www.typescriptlang.org/ko/tsconfig)
 
 - Declaration Files : `(js파일명).d.ts`
+
+  - [https://github.com/DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 
 - JSDoc
 
